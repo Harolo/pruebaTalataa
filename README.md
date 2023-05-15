@@ -21,7 +21,7 @@ Para el Endpoints del método **POST** se utiliza la siguiente ruta:
 }
 ```
 En el Postman con la URL ya mencionada antes.
-
+ 
 
      Nota del metodo POTS: Este es el valor de la calificación que desea enviar. Se espera que el valor esté entre 0,5 y 10,0
 
